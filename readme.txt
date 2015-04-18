@@ -4,3 +4,5 @@ Git has a mutable index called stage.
 Git tracks changes.dev
 <<<<<<< HEAD
 Creating a new branch is quick and simple.
+dev --no-ff
+now is in dev
